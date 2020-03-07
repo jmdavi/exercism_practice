@@ -1,0 +1,6 @@
+.idea*
+**/README.md
+**/metadata.json
+**/__pycache__/
+**/*.pyc
+**/*.py~
